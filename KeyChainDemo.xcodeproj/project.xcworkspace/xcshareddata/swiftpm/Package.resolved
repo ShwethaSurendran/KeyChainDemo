@@ -1,0 +1,15 @@
+{
+  "originHash" : "bc0a576f5342e873e7ea2c92710d49d1a34680d9ed739956bd7e551409dadb84",
+  "pins" : [
+    {
+      "identity" : "keychainswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ShwethaSurendran/KeyChainSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8e73a0defa3d70226339e2c69784a60387a31490"
+      }
+    }
+  ],
+  "version" : 3
+}
