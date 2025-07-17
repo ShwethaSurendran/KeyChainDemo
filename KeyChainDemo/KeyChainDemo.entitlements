@@ -3,6 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>keychain-access-groups</key>
-	<array/>
+	<array>
+		<string>$(AppIdentifierPrefix)com.ns.SharedKeychain</string>
+		<string>$(AppIdentifierPrefix)com.ns.NewApp.KeyChainDemo</string>
+	</array>
 </dict>
 </plist>
